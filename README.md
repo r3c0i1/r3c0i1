@@ -14,7 +14,7 @@
 * 💙 Programming
 <br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,cpp,java,python,html,css,javascript,git,github,linux,arch&perline=11"/>
+  <img src="https://skillicons.dev/icons?i=dart,java,py,linux,postgres,rabbitmq,github,redis,react,flutter,androidstudio,tensorflow&perline=6&theme=dark"/>
 </p>
 
 </p>
