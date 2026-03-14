@@ -1,16 +1,21 @@
-## Hi there 👋
+<img align="center" src="./img/flowers.png">
+<p align="center">
+  <img src="./img/cat2.gif" alt="cat" width="150">
+</p>
+<div align="center">
 
-<!--
-**r3c0i1/r3c0i1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! 👋
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+* 🎓 MSc in Computer Science
+* 💼 Teracloud ApS
+* 💙 Programming
+<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,cpp,java,python,html,css,javascript,git,github,linux,arch&perline=11"/>
+</p>
+
+</p>
