@@ -11,7 +11,6 @@
 <p align="center">
 
 * 🎓 MSc in Computer Science
-* 💼 Teracloud ApS
 * 💙 Programming
 <br><br>
 <p align="center">
